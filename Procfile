@@ -1,0 +1,1 @@
+worker: python heroku_python_test.py
